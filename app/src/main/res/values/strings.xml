@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PC1 Amoretti</string>
+    <string name="texto_titulo_calculo">Cálculo de Notas</string>
+    <string name="texto_titulo_resultado">Resultado</string>
+    <string name="texto_parcial">Examen Parcial</string>
+    <string name="texto_final">Examen Final</string>
+    <string name="texto_pep">Promedio de evaluación permanente (PEP)</string>
+    <string name="texto_nota_final">La nota final es:</string>
+    <string name="texto_resultado">Resultado</string>
+    <string name="texto_boton_calcular">Calcular</string>
+</resources>
